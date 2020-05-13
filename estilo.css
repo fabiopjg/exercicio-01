@@ -1,0 +1,61 @@
+body{
+    width: 960px;
+    margin: auto;
+    font-family:'Segoe UI';
+
+}
+.num{
+    list-style: none;
+    display: inline;
+    padding-left: 100px;
+}
+h1{
+    padding: 10px;
+    padding-left: 200px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+.ti{
+    background-color:rgb(250, 45, 45);
+    padding-left: 400px;
+    color: snow;
+}
+.dia{
+    padding-left: 400px;
+}
+#cov{
+    width: 400px;
+    float: right;
+    padding-top: 30px;
+}
+#pres{
+    width: 700px;
+    padding-left: 100px;
+}
+#roma{
+    width: 700px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+#puma{
+    width: 700px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+#prev{
+    width: 700px;
+    padding-left: 100px;
+}
+#rua{
+    width: 700px;
+    padding-left: 100px;
+}
+#fim{
+    padding-left: 400px;   
+}
+#pa{
+    padding-left: 320px;
+}
+#por{
+    padding-left: 350px;
+}
